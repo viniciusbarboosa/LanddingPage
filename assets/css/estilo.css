@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+#botaoInput:hover{
+    background-color:  #434d54 !important;
+}
+
+#logo{
+    font-size: 40px;
+    
+}
+
+#fundo1{
+    background-color:#9AADBD ;
+    color:#FEFDFE;
+}
+.form-control:focus {
+    border-color: #ced4da !important;
+    box-shadow: none !important; 
+}
+
+#nomeInput{
+    width: 400px;
+    height: 50px;
+    color: #434d54 ;
+    font-size: 20px;
+}
+
+#nomeInput:focus {
+    border: 2px solid #9AADBD !important;
+  }
+
+#emailInput{
+    width: 400px;
+    height: 50px;
+    color: #434d54 ;
+    font-size: 20px;
+}
+
+#emailInput:focus {
+    border: 2px solid #9AADBD !important;
+  }
+
+#telefoneInput{
+    width: 400px;
+    height: 50px;
+    color: #434d54 ;
+    font-size: 20px;
+}
+
+#telefoneInput:focus {
+    border: 2px solid #9AADBD !important;
+  }
+
+#mensagemInput{
+    width: 400px;
+    height: 150px;
+    color: #434d54 ;
+    font-size: 20px;
+    text-align: left;
+    vertical-align: top; 
+}
+
+#mensagemInput:focus {
+    border: 2px solid #9AADBD !important;
+  }
+
+#botaoInput{
+    width: 400px;
+    height: 50px;
+}
+
+#fundo3 {
+    background-color: #EFF0F5;
+    margin-top: 25px;
+    padding:20px;
+  }
+
+#idFUndo{
+    color:#505c66;
+}
+
+.btn-primary:hover {
+    background-color: #111416;
+    border-color: #14181b;
+ 
+}
+
+.btn:focus:not(:focus-visible) {
+    box-shadow: none;
+  }
+
+
+.anime{
+    opacity: 0 !important;
+    transform:translate3d(-100px,0,0) !important;
+    transition: .3s !important;
+}
+
+.anime-start{
+    opacity: 1 !important;
+    transform:translate3d(0,0,0) !important;
+}
+
+
+.efeitoFade{
+   opacity: 0 !important;
+   transition: .5s !important;
+  }
+
+.fade-start{
+    opacity: 1 !important;
+}  

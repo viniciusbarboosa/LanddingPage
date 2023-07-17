@@ -9,11 +9,14 @@
     <!--CSS-->
       <link rel="stylesheet" href="assets/css/estilo.css">
     
+    <!--LINK FONT AWESSOME-->
+    <script src="https://kit.fontawesome.com/e56cfcec1d.js" crossorigin="anonymous"></script>
+
     <!--LINK DO BOTSTRAP-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
        
-    <!--LINK FONT AWESSOME-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
 
     <!--LINK DO JQUERY-->
     <script src="https://code.jquery.com/jquery-3.6.4.js"
@@ -126,7 +129,7 @@
   <div class="row justify-content-center efeitoFade" style="margin-top:20px;">
     <div class="col-md-6">
       <div class="d-flex justify-content-center">
-        <i class="fa-solid fa-envelope fa-3x align-self-top" style="margin-right:20px; color:#505c66;"></i>
+        <i class="fas fa-sack-dollar fa-3x align-self-top" style="margin-right:20px; color:#505c66;"></i>
         <div class="ml-3" style="width:70%;">
           <h4 style="color:#505c66;">Benefício do Serviço</h4>
           <p>Insira o beneficio do seu produto gera bem aqui.Mais Tempo ? Mais Dinheiro ? Mais Produtividade ? Prazo de atendimento ? Economia ? Preço ? </p>
